@@ -36,12 +36,10 @@ To maximize efficiency and mitigate the torque ripple inherent to SRMs, an asymm
 
 ## 📁 Repository Structure
 * `/ANSYS_Maxwell_Files/` - Contains the `.mxwl` project files, 2D mesh data, and RMxprt analytical setups.
-* `/MATLAB_Simulations/` - Control loop models and torque sharing function (TSF) scripts.
 * `/Documentation/` - Contains the full 80-page technical thesis detailing the mathematical baseline and comparative material analysis (NLMK vs. M19_29G).
 
 ---
 
 ## 💻 Tech Stack
 * **FEA & Electromagnetic Modeling:** ANSYS Maxwell 2D, ANSYS RMxprt
-* **Systems Simulation:** MATLAB / Simulink
 * **CAD Geometry:** SolidWorks, AutoCAD
