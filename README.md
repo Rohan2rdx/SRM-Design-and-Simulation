@@ -35,7 +35,6 @@ To maximize efficiency and mitigate the torque ripple inherent to SRMs, an asymm
 ---
 
 ## 📁 Repository Structure
-* `/ANSYS_Maxwell_Files/` - Contains the `.mxwl` project files, 2D mesh data, and RMxprt analytical setups.
 * `/Documentation/` - Contains the full 80-page technical thesis detailing the mathematical baseline and comparative material analysis (NLMK vs. M19_29G).
 
 ---
